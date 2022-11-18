@@ -1,0 +1,15 @@
+/Users/sniper/Projects/findNumber/findNumber3/bin/Debug/net7.0/findNumber3
+/Users/sniper/Projects/findNumber/findNumber3/bin/Debug/net7.0/findNumber3.deps.json
+/Users/sniper/Projects/findNumber/findNumber3/bin/Debug/net7.0/findNumber3.runtimeconfig.json
+/Users/sniper/Projects/findNumber/findNumber3/bin/Debug/net7.0/findNumber3.dll
+/Users/sniper/Projects/findNumber/findNumber3/bin/Debug/net7.0/findNumber3.pdb
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/findNumber3.csproj.AssemblyReference.cache
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/findNumber3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/findNumber3.AssemblyInfoInputs.cache
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/findNumber3.AssemblyInfo.cs
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/findNumber3.csproj.CoreCompileInputs.cache
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/findNumber3.dll
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/refint/findNumber3.dll
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/findNumber3.pdb
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/findNumber3.genruntimeconfig.cache
+/Users/sniper/Projects/findNumber/findNumber3/obj/Debug/net7.0/ref/findNumber3.dll
